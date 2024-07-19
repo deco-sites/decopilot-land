@@ -1,3 +1,7 @@
 {
-  "__resolveType": "site/sections/TesteCC.tsx"
+  "__resolveType": "site/sections/TesteCC.tsx",
+  "backgroundColor": "#1c7d3e",
+  "textColor": "#f7f7f7",
+  "buttonColor": "#38b75e",
+  "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/11917/46d4f5b0-1b7c-4037-8ae2-17b01c30da82"
 }
